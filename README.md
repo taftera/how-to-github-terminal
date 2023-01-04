@@ -35,5 +35,10 @@ Review the GitHub syntax format [link](https://help.github.com/en/articles/basic
 ## Clone a project
 - **git clone --** *GitHub-project-URL*
 
+## Reverting to a previous state
+- ** git reset --hard ** SHA 
+## Pushing that state to a branch
+- **git push -f origin** branch-in-question
+
 ## Git - Brackets Config
 [Practical Series . com](http://practicalseries.com/1002-vcs/index.html#js--000000)
